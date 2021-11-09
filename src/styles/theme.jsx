@@ -22,6 +22,10 @@ const theme = {
         above768: '(min-width: 768px)',
         above1024: '(min-width: 1024px)',
       },
+    paddings:{
+        sectionMobile: '2rem 3rem 0',
+        sectionDesktop:'7rem 4rem 0'
+    }
 }
 
 export default theme;
