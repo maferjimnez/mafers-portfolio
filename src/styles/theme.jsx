@@ -1,5 +1,6 @@
 const theme = {
     colors:{
+        primaryText: '#404040',
         primaryBackground: '#f3f1f5',
         secondaryBackground: '#eff8ff',
         gifosBackground: '#a08bcc',
@@ -12,7 +13,9 @@ const theme = {
         tertiaryPurple :'#a08bcc'
     },
     fonts:{
-        titleBold: '900',
+        titleWeight: '900',
+        fontWeight: '600',
+        fontFamily: "'Mosk', sans-serif",
     },
     mediaQueries: {
         above600: '(min-width: 600px)',
