@@ -32,7 +32,7 @@ const StyledHero = styled.section`
 
     .hero-img-wrapper {
         margin: auto;
-        max-width: 25rem;
+        max-width: 20rem;
         overflow: hidden;
         display: flex;
         border-radius: 50%;
@@ -40,7 +40,7 @@ const StyledHero = styled.section`
         background-color: ${theme.colors.secondaryBackground};
 
         @media ${theme.mediaQueries.above600} {
-            max-width: 28.5rem;
+            max-width: 25rem;
         }
     }
 

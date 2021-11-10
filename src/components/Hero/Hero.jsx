@@ -12,7 +12,7 @@ function Hero () {
                     <br />
                     Maria Jimenez
                 </h1>
-                <p className=""><span>Web developer</span> based in Cordoba, Argentina</p>
+                <p><span>Web developer</span> based in Cordoba, Argentina</p>
             </div>
             <div className="hero-img-container">
                 <div className="hero-img-wrapper">
