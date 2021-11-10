@@ -25,7 +25,7 @@ const theme = {
 	},
 	paddings: {
 		sectionMobile: '2rem 3rem 0',
-		sectionDesktop: '7rem 6rem 0',
+		sectionDesktop: '7rem 4rem 0',
 	},
 };
 

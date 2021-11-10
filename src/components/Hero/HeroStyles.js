@@ -13,12 +13,7 @@ const StyledHero = styled.section`
     }
 
     .hero-text-container h1 {
-        font-size: 2.5rem;
         margin-bottom: 10px;
-       
-        @media ${theme.mediaQueries.above600} {
-		    font-size: 3.5rem;
-	 }
     }
 
     .hero-text-container p {
