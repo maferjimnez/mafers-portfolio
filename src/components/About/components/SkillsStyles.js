@@ -13,11 +13,14 @@ const SkillsContainer = styled.div`
 
 .skills-list{
     margin-top: 1rem; 
-    padding: 0 2rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
+
+    @media ${theme.mediaQueries.above1200}{
+        padding: 0 2rem;
+    }
 }
 
 .skills-list li {
