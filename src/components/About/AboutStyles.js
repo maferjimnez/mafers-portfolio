@@ -16,8 +16,6 @@ const AboutSection = styled.section`
     }
 
     @media ${theme.mediaQueries.above1200} {
-        padding-top: 11rem;
-
         .about-me-tabs{
             display: flex;
             justify-content: space-around;
