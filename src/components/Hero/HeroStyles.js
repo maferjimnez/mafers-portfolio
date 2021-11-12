@@ -43,7 +43,6 @@ const StyledHero = styled.section`
     .hero-img-wrapper img {
         width: 100%;
     }
-
 `;
 
 export default StyledHero;

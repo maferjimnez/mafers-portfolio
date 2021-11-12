@@ -13,6 +13,7 @@ function FavoriteAlbum() {
 			<AlbumContainer>
 				<h3>Favorite album atm</h3>
 				<iframe
+					title="Red, Taylor's version"
 					src="https://open.spotify.com/embed/album/6kZ42qRrzov54LcAk4onW9?utm_source=generator"
 					width="100%"
 					frameBorder="0"

@@ -28,7 +28,10 @@ function AboutMe() {
 								alt="Icon of a laptop"
 							/>{' '}
 							<p>Working at </p>
-							<a href="https://dinocloudconsulting.com/" target="_blank">
+							<a
+								href="https://dinocloudconsulting.com/"
+								target="_blank"
+								rel="noreferrer">
 								<img
 									className="dinocloud-logo"
 									src={DinoCloudLogo}
