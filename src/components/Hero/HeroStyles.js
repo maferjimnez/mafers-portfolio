@@ -1,32 +1,6 @@
-import styled, {keyframes} from "styled-components";
+import styled from "styled-components";
 import theme from "../../styles/theme";
 
-// const boing = keyframes`
-//   0%
-//   {
-//     transform: scale( .75 );
-//   }
-//   20%
-//   {
-//     transform: scale( 1.1 );
-//   }
-//   40%
-//   {
-//     transform: scale( .75 );
-//   }
-//   60%
-//   {
-//     transform: scale( 1.1 );
-//   }
-//   80%
-//   {
-//     transform: scale( .75 );
-//   }
-//   100%
-//   {
-//     transform: scale( .75 );
-//   }
-// `;
 
 const StyledHero = styled.section`
     padding: ${theme.paddings.sectionMobile};
@@ -69,12 +43,7 @@ const StyledHero = styled.section`
     .hero-img-wrapper img {
         width: 100%;
     }
-/* 
-    .exclamation-mark{
-        animation: ${boing} 1s ease infinite;
-    } */
 
-    
 `;
 
 export default StyledHero;
