@@ -16,6 +16,9 @@ const StyledProjects = styled.section`
 
     .project-wrapper:last-child{
         margin-bottom: 0;
+        @media ${theme.mediaQueries.above1024}{
+            margin-bottom: 1.5rem;
+        }
     }
 
     

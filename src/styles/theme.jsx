@@ -30,7 +30,7 @@ const theme = {
 	},
 	paddings: {
 		sectionMobile: '7rem 3rem 0',
-		sectionDesktop: '12rem 4rem 0',
+		sectionDesktop: '10rem 4rem 0',
 	},
 };
 
