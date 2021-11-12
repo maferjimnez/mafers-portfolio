@@ -42,6 +42,11 @@ h2{
 span {
 	color: ${theme.colors.textDetails};
 }
+
+a {
+	text-decoration: none;
+}
+
 `;
 
 export default GlobalStyle;
