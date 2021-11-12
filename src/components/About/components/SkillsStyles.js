@@ -2,9 +2,9 @@ import styled from "styled-components";
 import theme from "../../../styles/theme";
 
 const SkillsContainer = styled.div`
-@media ${theme.mediaQueries.above1200}{
-    max-width: 25rem;
-    }
+/* @media ${theme.mediaQueries.above1200}{
+    width: ;
+    } */
 
 
 .skills-text{

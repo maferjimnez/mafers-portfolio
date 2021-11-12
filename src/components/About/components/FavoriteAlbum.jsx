@@ -4,7 +4,7 @@ import AlbumContainer from './FavoriteAlbumStyles';
 
 function FavoriteAlbum() {
 	return (
-		<TabsContainer>
+		<TabsContainer className="favorite-album-container">
 			<div className="tab-container">
 				<div className="tab-dots"></div>
 				<div className="tab-dots"></div>

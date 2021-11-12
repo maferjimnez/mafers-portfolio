@@ -9,7 +9,7 @@ import JoystickIcon from '../assets/joystick-icon.png';
 
 function AboutMe() {
 	return (
-		<TabsContainer>
+		<TabsContainer className="about-me-container">
 			<div className="tab-container">
 				<div className="tab-dots"></div>
 				<div className="tab-dots"></div>

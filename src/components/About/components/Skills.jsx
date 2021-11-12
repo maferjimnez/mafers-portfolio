@@ -13,7 +13,7 @@ import GitLogo from '../assets/git-logo.png';
 
 function Skills() {
 	return (
-		<TabsContainer>
+		<TabsContainer className="skills-container">
 			<div className="tab-container">
 				<div className="tab-dots"></div>
 				<div className="tab-dots"></div>

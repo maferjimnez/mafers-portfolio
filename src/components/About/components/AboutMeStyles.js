@@ -4,10 +4,13 @@ import theme from "../../../styles/theme";
 
 const AboutMeContainer = styled.div`
     padding: 1rem 1.5rem;
+
     @media ${theme.mediaQueries.above1200}{
-        max-width: 43rem;
+        height: 95%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
     }
-    
 
     @media ${theme.mediaQueries.above768} {
         .top-container{

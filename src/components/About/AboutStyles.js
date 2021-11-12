@@ -11,7 +11,15 @@ const AboutSection = styled.section`
         
         .bottom-wrapper{
             display: flex;
-            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .favorite-album-container{
+            width: 45%;
+        }
+
+        .skills-container{
+            width: 45%;
         }
     }
 
@@ -21,8 +29,23 @@ const AboutSection = styled.section`
             justify-content: space-around;
         }
 
+        .about-me-container{
+            width: 60%;
+            height: auto;
+        }
+
         .bottom-wrapper{
+            flex-direction: column;
             justify-content: space-between;
+            width: 30%;
+        }
+
+        .favorite-album-container{
+            width: unset;
+        }
+
+        .skills-container{
+            width: unset;
         }
     }
 `;
