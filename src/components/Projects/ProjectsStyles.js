@@ -14,6 +14,10 @@ const StyledProjects = styled.section`
         }
     }
 
+    .project-wrapper:last-child{
+        margin-bottom: 0;
+    }
+
     
 `;
 

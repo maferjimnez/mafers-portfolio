@@ -2,11 +2,12 @@ import styled from "styled-components";
 import theme from "../../../styles/theme";
 
 const StyledProject = styled.div`
-padding: 1.5rem;
+padding: 0.5rem;
 border-radius: 5px;
 margin-bottom: 1.5rem;
 @media ${theme.mediaQueries.above1024}{
         width: 48%;
+        padding: 1.5rem;
     }
 
 .project-container{
