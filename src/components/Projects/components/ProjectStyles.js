@@ -14,6 +14,7 @@ margin-bottom: 1.5rem;
     position: relative;
     border-radius: 10px;
     overflow: hidden;
+    box-shadow: 0px 0px 8px -1px rgb(95 95 95);
 }
 
 .project-info{
