@@ -1,5 +1,19 @@
-import styled from "styled-components";
+import styled, { keyframes } from "styled-components";
 import theme from "../../styles/theme";
+
+const swing = keyframes`
+0% {transform: rotateZ(0);}
+10% {transform: rotateZ(6deg);}
+20% {transform: rotateZ(-8deg);}
+30% {transform: rotateZ(15deg);}
+40% {transform: rotateZ(-18deg);}
+50% {transform: rotateZ(18deg));}
+60% {transform: rotateZ(-14deg);}
+70% {transform: rotateZ(8deg);}
+80% {transform: rotateZ(-4deg);}
+90% {transform: rotateZ(2deg);}
+100% {transform: rotateZ(0);}
+`;
 
 const StyledContact = styled.section`
     padding: ${theme.paddings.sectionMobile};
@@ -60,6 +74,10 @@ const StyledContact = styled.section`
     margin-top: 20px;
     display: flex;
     justify-content: space-evenly;
+}
+
+.social-media-container div:hover{
+    animation: ${swing} 1s ease;
 }
 
 .email{ 
