@@ -1,8 +1,5 @@
 {
-  "devDependencies": {
-    "gh-pages": "^3.2.3",
-    "homepage": "http://maferjimnez.github.io/mafers-portfolio",
-  },
+  "homepage": "http://maferjimnez.github.io/mafers-portfolio",
   "name": "mafers-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -41,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "homepage": "http://maferjimnez.github.io/mafers-portfolio"
   }
 }
