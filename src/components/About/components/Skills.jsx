@@ -34,7 +34,6 @@ function Skills() {
 						<li>
 							<img src={SassLogo} alt="Sass logo" />
 						</li>
-						<br />
 						<li>
 							<img src={BootstrapLogo} alt="Bootstrap logo" />
 						</li>
@@ -44,7 +43,6 @@ function Skills() {
 						<li>
 							<img src={ReactLogo} alt="React logo" />
 						</li>
-						<br />
 						<li>
 							<img src={StyledLogo} alt="Styled components logo" />
 						</li>

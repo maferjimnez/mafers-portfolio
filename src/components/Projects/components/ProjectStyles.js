@@ -52,7 +52,7 @@ margin-bottom: 1.5rem;
     flex-direction: column;
 }
 
-.project-name{
+.project-name h3{
     @media ${theme.mediaQueries.above768}{
         font-size: 25px;
     }

@@ -2,11 +2,6 @@ import styled from "styled-components";
 import theme from "../../../styles/theme";
 
 const SkillsContainer = styled.div`
-/* @media ${theme.mediaQueries.above1200}{
-    width: ;
-    } */
-
-
 .skills-text{
     padding: 1rem 1.5rem;
 }
@@ -19,7 +14,7 @@ const SkillsContainer = styled.div`
     align-items: center;
 
     @media ${theme.mediaQueries.above1200}{
-        padding: 0 2rem;
+        padding: 0 1rem;
     }
 }
 

@@ -28,7 +28,7 @@ const Contact = () => {
 						</a>
 					</p>
 					<p>
-						Or let's get social throught<span>:</span>
+						Or let's get social through<span>:</span>
 					</p>
 					<div className="social-media-container">
 						<div>

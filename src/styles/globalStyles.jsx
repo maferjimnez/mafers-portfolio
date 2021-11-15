@@ -47,6 +47,10 @@ a {
 	text-decoration: none;
 }
 
+img{
+	height: auto;
+	width: auto;
+}
 `;
 
 export default GlobalStyle;

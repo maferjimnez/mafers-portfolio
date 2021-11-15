@@ -14,7 +14,7 @@ const ProjectItem = ({ item }) => {
 					className="project-info"
 					style={{ backgroundColor: item.hoverBackgroundColor }}>
 					<div className="project-name">
-						<h4>{item.name}</h4>
+						<h3>{item.name}</h3>
 					</div>
 					<div className="project-specifics">
 						<a href={item.link} target="_blank" rel="noreferrer">
