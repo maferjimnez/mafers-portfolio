@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/mafers-portfolio/static/js/main.48d86592.chunk.js",
+    "main.js.map": "/mafers-portfolio/static/js/main.48d86592.chunk.js.map",
+    "runtime-main.js": "/mafers-portfolio/static/js/runtime-main.0c40fe5d.js",
+    "runtime-main.js.map": "/mafers-portfolio/static/js/runtime-main.0c40fe5d.js.map",
+    "static/js/2.bd57dc18.chunk.js": "/mafers-portfolio/static/js/2.bd57dc18.chunk.js",
+    "static/js/2.bd57dc18.chunk.js.map": "/mafers-portfolio/static/js/2.bd57dc18.chunk.js.map",
+    "index.html": "/mafers-portfolio/index.html",
+    "static/js/2.bd57dc18.chunk.js.LICENSE.txt": "/mafers-portfolio/static/js/2.bd57dc18.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-logo.9cc938d1.png": "/mafers-portfolio/static/media/bootstrap-logo.9cc938d1.png",
+    "static/media/css-logo.6deaea30.png": "/mafers-portfolio/static/media/css-logo.6deaea30.png",
+    "static/media/dinocloud-logo.6c1cbf67.png": "/mafers-portfolio/static/media/dinocloud-logo.6c1cbf67.png",
+    "static/media/gifos.971311b1.png": "/mafers-portfolio/static/media/gifos.971311b1.png",
+    "static/media/git-logo.b75a55c0.png": "/mafers-portfolio/static/media/git-logo.b75a55c0.png",
+    "static/media/github-logo.fdb5de68.png": "/mafers-portfolio/static/media/github-logo.fdb5de68.png",
+    "static/media/hero-img.92735c20.png": "/mafers-portfolio/static/media/hero-img.92735c20.png",
+    "static/media/javascript-logo.dafbcd7f.png": "/mafers-portfolio/static/media/javascript-logo.dafbcd7f.png",
+    "static/media/joystick-icon.8ee0340a.png": "/mafers-portfolio/static/media/joystick-icon.8ee0340a.png",
+    "static/media/linkedin-logo.13035068.png": "/mafers-portfolio/static/media/linkedin-logo.13035068.png",
+    "static/media/mafer-pic.fa2f62fd.png": "/mafers-portfolio/static/media/mafer-pic.fa2f62fd.png",
+    "static/media/meet-your-hero.48bff1cf.png": "/mafers-portfolio/static/media/meet-your-hero.48bff1cf.png",
+    "static/media/plant-icon.9c13e3fa.png": "/mafers-portfolio/static/media/plant-icon.9c13e3fa.png",
+    "static/media/react-logo.20adfb35.png": "/mafers-portfolio/static/media/react-logo.20adfb35.png",
+    "static/media/reserva-alojamiento.ad6a738f.png": "/mafers-portfolio/static/media/reserva-alojamiento.ad6a738f.png",
+    "static/media/rewards-store.ee892e31.png": "/mafers-portfolio/static/media/rewards-store.ee892e31.png",
+    "static/media/sass-logo.051888ab.png": "/mafers-portfolio/static/media/sass-logo.051888ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c40fe5d.js",
+    "static/js/2.bd57dc18.chunk.js",
+    "static/js/main.48d86592.chunk.js"
+  ]
+}
