@@ -3,12 +3,11 @@ import theme from '../../styles/theme';
 
 const AboutSection = styled.section`
     padding: ${theme.paddings.sectionMobile};
-    padding-top: 7rem;
     background: ${theme.colors.primaryBackground};
 
     @media ${theme.mediaQueries.above768} {
         padding: ${theme.paddings.sectionDesktop};
-        
+        padding-top: 0;
         .bottom-wrapper{
             display: flex;
             justify-content: space-between;
