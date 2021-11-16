@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.js": "/mafers-portfolio/static/js/main.48d86592.chunk.js",
-    "main.js.map": "/mafers-portfolio/static/js/main.48d86592.chunk.js.map",
+    "main.js": "/mafers-portfolio/static/js/main.196f2387.chunk.js",
+    "main.js.map": "/mafers-portfolio/static/js/main.196f2387.chunk.js.map",
     "runtime-main.js": "/mafers-portfolio/static/js/runtime-main.0c40fe5d.js",
     "runtime-main.js.map": "/mafers-portfolio/static/js/runtime-main.0c40fe5d.js.map",
     "static/js/2.bd57dc18.chunk.js": "/mafers-portfolio/static/js/2.bd57dc18.chunk.js",
     "static/js/2.bd57dc18.chunk.js.map": "/mafers-portfolio/static/js/2.bd57dc18.chunk.js.map",
     "index.html": "/mafers-portfolio/index.html",
     "static/js/2.bd57dc18.chunk.js.LICENSE.txt": "/mafers-portfolio/static/js/2.bd57dc18.chunk.js.LICENSE.txt",
+    "static/media/Mosk-ultra-bold.f8e97be3.woff": "/mafers-portfolio/static/media/Mosk-ultra-bold.f8e97be3.woff",
+    "static/media/Mosk.10ab454a.woff": "/mafers-portfolio/static/media/Mosk.10ab454a.woff",
     "static/media/bootstrap-logo.9cc938d1.png": "/mafers-portfolio/static/media/bootstrap-logo.9cc938d1.png",
     "static/media/css-logo.6deaea30.png": "/mafers-portfolio/static/media/css-logo.6deaea30.png",
     "static/media/dinocloud-logo.6c1cbf67.png": "/mafers-portfolio/static/media/dinocloud-logo.6c1cbf67.png",
@@ -29,6 +31,6 @@
   "entrypoints": [
     "static/js/runtime-main.0c40fe5d.js",
     "static/js/2.bd57dc18.chunk.js",
-    "static/js/main.48d86592.chunk.js"
+    "static/js/main.196f2387.chunk.js"
   ]
 }
