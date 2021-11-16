@@ -1,4 +1,5 @@
 <img src="src/components/Hero/assets/hero-img.png" width=100>
+
 # Mafer's portfolio
 
 ## Technologies and resources
