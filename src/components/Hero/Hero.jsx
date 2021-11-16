@@ -11,7 +11,7 @@ function Hero() {
 					<br />
 					I'm
 					<br />
-					Maria Jimenez this is a test
+					Maria Jimenez
 				</h1>
 				<p>
 					<span>Web developer</span> based in Cordoba, Argentina
