@@ -1,7 +1,7 @@
-![Mafer doodle](src/components/Hero/assets/hero-img.png)
-#Mafer's portfolio
+<img src="src/components/Hero/assets/hero-img.png" width=100>
+# Mafer's portfolio
 
-##Technologies and resources
+## Technologies and resources
 -   [React](https://reactjs.org/)
 -   [Styled-components](https://styled-components.com/)
 
