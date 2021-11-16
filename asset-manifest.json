@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/mafers-portfolio/static/js/main.196f2387.chunk.js",
-    "main.js.map": "/mafers-portfolio/static/js/main.196f2387.chunk.js.map",
+    "main.js": "/mafers-portfolio/static/js/main.cab4208d.chunk.js",
+    "main.js.map": "/mafers-portfolio/static/js/main.cab4208d.chunk.js.map",
     "runtime-main.js": "/mafers-portfolio/static/js/runtime-main.0c40fe5d.js",
     "runtime-main.js.map": "/mafers-portfolio/static/js/runtime-main.0c40fe5d.js.map",
     "static/js/2.bd57dc18.chunk.js": "/mafers-portfolio/static/js/2.bd57dc18.chunk.js",
@@ -31,6 +31,6 @@
   "entrypoints": [
     "static/js/runtime-main.0c40fe5d.js",
     "static/js/2.bd57dc18.chunk.js",
-    "static/js/main.196f2387.chunk.js"
+    "static/js/main.cab4208d.chunk.js"
   ]
 }
