@@ -2,9 +2,12 @@
 
 # Mafer's portfolio
 
+A simple portfolio made with React.js and tons of love, see what I've done and what I'm up to [Here](https://maferjimnez.github.io/mafers-portfolio/)!
+
 ## Technologies and resources
--   [React](https://reactjs.org/)
--   [Styled-components](https://styled-components.com/)
+
+- [React](https://reactjs.org/)
+- [Styled-components](https://styled-components.com/)
 
 ## Getting Started with Create React App
 
