@@ -4,7 +4,7 @@ import Skills from './components/Skills';
 import AboutMe from './components/AboutMe';
 import FavoriteAlbum from './components/FavoriteAlbum';
 
-function About() {
+const About = () => {
 	return (
 		<AboutSection>
 			<h2>
@@ -19,6 +19,6 @@ function About() {
 			</div>
 		</AboutSection>
 	);
-}
+};
 
 export default About;

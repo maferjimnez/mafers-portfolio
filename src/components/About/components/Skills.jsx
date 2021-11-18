@@ -11,7 +11,7 @@ import BootstrapLogo from '../assets/bootstrap-logo.png';
 import GithubLogo from '../assets/github-logo.png';
 import GitLogo from '../assets/git-logo.png';
 
-function Skills() {
+const Skills = () => {
 	return (
 		<TabsContainer className="skills-container">
 			<div className="tab-container">
@@ -57,6 +57,6 @@ function Skills() {
 			</SkillsContainer>
 		</TabsContainer>
 	);
-}
+};
 
 export default Skills;

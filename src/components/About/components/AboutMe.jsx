@@ -7,7 +7,7 @@ import LaptopIcon from '../assets/laptop-icon.png';
 import PlantIcon from '../assets/plant-icon.png';
 import JoystickIcon from '../assets/joystick-icon.png';
 
-function AboutMe() {
+const AboutMe = () => {
 	return (
 		<TabsContainer className="about-me-container">
 			<div className="tab-container">
@@ -84,6 +84,6 @@ function AboutMe() {
 			</AboutMeContainer>
 		</TabsContainer>
 	);
-}
+};
 
 export default AboutMe;

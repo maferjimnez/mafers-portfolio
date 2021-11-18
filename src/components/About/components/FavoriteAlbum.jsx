@@ -2,7 +2,7 @@ import React from 'react';
 import TabsContainer from '../../../styles/TabsContainer';
 import AlbumContainer from './FavoriteAlbumStyles';
 
-function FavoriteAlbum() {
+const FavoriteAlbum = () => {
 	return (
 		<TabsContainer className="favorite-album-container">
 			<div className="tab-container">
@@ -21,6 +21,6 @@ function FavoriteAlbum() {
 			</AlbumContainer>
 		</TabsContainer>
 	);
-}
+};
 
 export default FavoriteAlbum;

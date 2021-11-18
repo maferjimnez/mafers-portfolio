@@ -2,7 +2,7 @@ import React from 'react';
 import HeroImg from './assets/hero-img.png';
 import StyledHero from './HeroStyles';
 
-function Hero() {
+const Hero = () => {
 	return (
 		<StyledHero>
 			<div className="hero-text-container">
@@ -24,6 +24,6 @@ function Hero() {
 			</div>
 		</StyledHero>
 	);
-}
+};
 
 export default Hero;

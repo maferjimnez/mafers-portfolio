@@ -5,7 +5,7 @@ import Projects from "./Projects/Projects";
 import Contact from "./Contact/Contact";
 import Footer from "./Footer/Footer.jsx";
 
-function App() {
+const App = () => {
   return (
    <div className="App">
      <Hero />
